@@ -1,0 +1,15 @@
+{
+  "name": "UserEntityAvro",
+  "type": "record",
+  "namespace": "com.atomicspaj.KafkaDemo.model",
+  "fields": [
+    {
+      "name": "firstName",
+      "type": "string"
+    },
+    {
+      "name": "lastName",
+      "type": "string"
+    }
+  ]
+}
